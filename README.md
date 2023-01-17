@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web technologies :D
 - 🌱 I’m currently learning React.JS and React Native
 - 📫 How to reach me:   ivanenriquegonzalez@outlook.com 
+-                        https://www.linkedin.com/in/ivangonzalezr/
 
 ![](https://gitwar.herokuapp.com/badge?username=IvanGonzalezR)
 
