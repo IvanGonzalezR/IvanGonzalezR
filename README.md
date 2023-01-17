@@ -3,4 +3,7 @@
 - 🌱 I’m currently learning React.JS and React Native
 - 📫 How to reach me:   ivanenriquegonzalez@outlook.com 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IvanGonzalezR)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://gitwar.herokuapp.com/badge?username=IvanGonzalezR)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanGonzalezR&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanGonzalezR&theme=default)
