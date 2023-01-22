@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IvanGonzalezR
 - 👀 I’m interested in Web technologies :D
 - 🌱 I’m currently learning React.JS and React Native
-- 📫 How to reach me:   ivanenriquegonzalez@outlook.com 
+- 📫 How to reach me:
+- e-Mail:    ivanenriquegonzalez@outlook.com 
 - Linkedin:  https://www.linkedin.com/in/ivangonzalezr/
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanGonzalezR&theme=default)
