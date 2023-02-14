@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanGonzalezR
 - 👀 I’m interested in Web technologies :D
-- 🌱 I’m currently learning React.JS and React Native
+- 🌱 I’m currently learning React.JS 
 - 📫 How to reach me:
 - e-Mail:    ivanenriquegonzalez@outlook.com 
 - Linkedin:  https://www.linkedin.com/in/ivangonzalezr/
